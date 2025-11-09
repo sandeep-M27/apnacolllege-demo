@@ -1,3 +1,3 @@
 # apnacolllege-demo
 this is my first repository.<br>
-author- sandeep
+author- sandeep(computer science)
